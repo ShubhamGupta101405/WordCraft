@@ -1,6 +1,5 @@
 {
-  "homepage": "https://ShubhamGupta101405.github.io/WordCraft",
-  "name": "textutils",
+  "name": "wordcaft",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
